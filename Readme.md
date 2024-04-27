@@ -12,6 +12,13 @@
   </a>
 </p>
 
+
+<!-- Website -->
+<h2 align="center">😎 Don't wait!</h2>
+<h2 align="center">👇 Click underneath to embark on an exploration! 👇</h2>
+<h2 align="center"><a href="https://deepweb-links.net/">🔮</a></h2>
+
+
 <!-- Introduction -->
 <div align="center" style="background-color:#F7F7F7; padding: 20px; border-radius: 10px;">
   <h3>🔍 About Me</h3>
@@ -46,6 +53,11 @@
 <h2 align="center" style="color:#1572B6;">📊 My Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k4torm&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+</p>
+
+<!-- GitHub Activity -->
+<h2 align="center">🔥 GitHub Activity</h2>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k4torm&theme=dark" alt="GitHub Streak">
 </p>
 
