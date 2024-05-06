@@ -4,6 +4,12 @@
     <img src="https://github.com/k4torm/k4torm/blob/main/k4torm.png">
   </a>
 </p>
+
+<!-- Persona Peeks -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=k4torm&label=Persona+Peeks&color=blue" alt="Persona Peeks">
+</p>
+
 <h1 align="center" style="color:#7109AA;">👋 Welcome to k4torm's Hub!</h1>
 
 <p align="center">
